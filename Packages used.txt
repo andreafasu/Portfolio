@@ -1,0 +1,11 @@
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import datetime as dt 
+from IPython.core.interactiveshell import InteractiveShell InteractiveShell.ast_node_interactivity = "all"
+from hampel import hampel
+
+#For extra things:
+from numpy import cov
+from scipy.stats import pearsonr
+from statsmodels.tsa.seasonal import seasonal_decompose
+import seaborn as sb 
