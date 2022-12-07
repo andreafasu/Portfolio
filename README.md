@@ -17,4 +17,4 @@ This repository contains two pickle files, `features.pkl` and `target.pkl`.
 represent the forecasted production from three forecasts for 3 assets of a portfolio of windfarms  
 (data has been transformed from its original). The units are MWh for the 30-minute window given by 
 the index.
-`target.pkl` contains the actual production from the portfolio for the same time range.
+`target.pkl` contains the actual production from the one of the assets of the portfolio for the same time range.
