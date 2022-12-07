@@ -6,7 +6,7 @@ An important activity for X is to buy and sell power on the European markets. Ha
 informed view on the future production of power therefore allows for a competitive advantage when
 placing bids and offers. 
 One of the inputs to this view comes from production forecast for X's 
-windfarms provided by a number of vendors. These vendors take into account the location of the 
+windfarms provided by vendors. These vendors take into account the location of the 
 windfarms, the placement of the wind turbines, the weather, and other factors and then provide 
 daily forecast for the production for the windfarms for the next 24-hour period.
 
