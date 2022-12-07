@@ -14,7 +14,7 @@ daily forecast for the production for the windfarms for the next 24-hour period.
 This repository contains two pickle files, `features.pkl` and `target.pkl`. 
 
 `features.pkl` is a time-indexed Pandas dataframe with three columns, `0`, `1`, and `2`. The values 
-represent the forecasted production from three forecast vendors for a portfolio of Ørsted windfarms 
+represent the forecasted production from three forecasts for 3 assets of a portfolio of windfarms  
 (data has been transformed from its original). The units are MWh for the 30-minute window given by 
 the index.
 `target.pkl` contains the actual production from the portfolio for the same time range.
